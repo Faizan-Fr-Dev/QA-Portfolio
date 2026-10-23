@@ -41,6 +41,29 @@ The collection contains **27 requests**, organized into these areas:
 - Covered both customer-facing functionality and administrative operations.
 - Exercised request payloads, route parameters, and authentication where applicable.
 
+## Positive Testing
+
+Positive testing verifies that the API behaves as expected when valid inputs and correct request data are provided.
+
+- Verify user registration with valid input data.
+- Verify login with valid credentials.
+- Verify authenticated profile access using a valid token.
+- Verify product, category, and search endpoints with valid requests.
+- Verify cart and wishlist operations with valid product data.
+- Verify order placement and order status retrieval with valid data.
+- Verify admin product and order management endpoints with valid authorization.
+
+## Negative Testing
+
+Negative testing verifies how the API handles invalid inputs, missing data, and unauthorized requests.
+
+- Check registration and login behavior with invalid or missing input data.
+- Verify protected endpoints when the authentication token is missing or invalid.
+- Check API behavior when an invalid product ID or order ID is provided.
+- Verify request validation when required fields are missing or contain invalid values.
+- Check how the API responds to unsupported or incorrect request data.
+- Verify that unauthorized users cannot access restricted admin operations.
+
 ## How to Run the Collection
 
 1. Start the Tasty Foods backend locally and confirm that it is listening on port `5000`.
