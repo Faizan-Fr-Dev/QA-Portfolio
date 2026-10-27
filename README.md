@@ -67,7 +67,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
       </a>
     </td>
     <td width="64%" valign="top">
-      <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/Tasty%20Food%20API%20Testing%20Project" target="_blank"><h3>🍽️ Tasty Foods — REST API Testing</h3></a>
+      <h3><a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/Tasty%20Food%20API%20Testing%20Project" target="_blank">🍽️ Tasty Foods — REST API Testing<</a></h3>
       <p><b>Project Type:</b> Manual API Testing using Postman</p>
       <p>Tested REST API endpoints for a food delivery application, covering customer-facing functionality and administrative operations.</p>
       <p>
