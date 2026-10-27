@@ -42,7 +42,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
       <p><b>Project Type:</b> Web Application Manual Testing</p>
       <p>Performed manual testing of an OpenCart e-commerce application, focusing on key user workflows and documenting test execution results and defects.</p>
       <p>
-        <b>Testing Focus:</b> Functional&nbsp;Testing &bull; Negative&nbsp;Testing &bull; Regression&nbsp;Testing <br> &bull; Defect&nbsp;Reporting &bull; Test&nbsp;Documentation
+        <b>Testing Focus:</b> Functional&nbsp;Testing &bull; Negative&nbsp;Testing &bull; Regression&nbsp;Testing &bull; Defect&nbsp;Reporting &bull; Test&nbsp;Documentation
       </p>
       <p>
         <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/OpenCart%20Manual%20Testing%20Project" target="_blank">
