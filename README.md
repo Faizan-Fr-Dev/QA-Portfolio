@@ -40,6 +40,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
 - **Report Defects:** Document reproduction steps, expected results, actual results, and supporting evidence.
 - **Verify Fixes:** Perform retesting and regression testing where applicable.
 
+---
 
 ### 🚀 Featured Projects
 
