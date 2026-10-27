@@ -1,25 +1,20 @@
-<div align="left">
-  <h1>Muhammad Faizan</h1>
-  <p><b>Aspiring Manual QA Engineer | Final-Year Computer Science Student</b></p><br>
-Aspiring QA Engineer and final-year Computer Science student with hands-on experience in manual web application and REST API testing using Postman. Skilled in test case design, functional testing, positive and negative testing, and defect reporting. Completed projects covering 491 OpenCart test executions and 27 API requests. Bringing additional MERN-stack development experience and a strong focus on software quality.
-</div>
+# Muhammad Faizan
 
-> Welcome to my Quality Assurance (QA) portfolio! This repository showcases my hands-on practice in manual software testing, web application testing, and REST API testing.  
-> I am a final-year Computer Science student seeking opportunities as a **Manual QA Tester**, **QA Intern**, **QA Trainee**, or **Junior QA Engineer**. I focus on designing test scenarios, executing test cases, identifying defects, and documenting actual results against expected behavior.
+**Aspiring QA Engineer & Manual Tester**
+*Ensuring software quality through systematic testing, detailed defect reporting, and reliable API validation.*
 
 ---
 
-### 📌 Profile and Summary
+### 💼 Professional Summary
 
-* 🎓 **Education:** Bachelor's Degree in Computer Science — University of Engineering & Technology, Lahore
-* 📊 **CGPA:** 3.61 / 4.0
-* 📍 **Location:** Lahore, Pakistan
-* 🎯 **Role:** Aspiring Manual QA Engineer
-* 🔍 **Interests:** Manual Testing, Functional Testing, Regression Testing, API Testing, and Defect Reporting
-* 🎯 **Career Objective:** I am looking for an entry-level QA opportunity where I can contribute to software quality, collaborate with developers and testers, and continue developing my skills in manual testing and API testing.
-* 💡 **What I Am Learning:** I am continuing to strengthen my software testing skills through hands-on practice with web applications and APIs, focusing on test design, defect investigation, clear documentation, and reliable verification of application behavior.
+I am an **Aspiring QA Engineer** and final-year Computer Science student based in Lahore, Pakistan. Focused on identifying defects, validating application functionality, and improving software quality through structured manual and API testing.
 
----
+- **Manual Testing:** Test Case Design, Functional Testing, Positive & Negative Testing, Regression Testing.
+- **API Testing:** Postman, REST APIs, HTTP Status Codes, JSON Payloads, Authentication Testing.
+- **My Focus:** Test execution, defect reporting, expected vs. actual results, and QA documentation.
+- **Projects:** 491 recorded OpenCart test executions and 27 Tasty Foods API requests.
+- **Inquiries:** Open to QA Intern, QA Trainee, Manual QA Tester, and Junior QA Engineer opportunities at [buttzan1234@gmail.com](mailto:buttzan1234@gmail.com).
+
 
 ### 🛠 Technical Stack
 
