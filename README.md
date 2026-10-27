@@ -1,20 +1,3 @@
-Viewed media_1793098847830.png:1-800
-Ran command: `python -c "from PIL import Image; img = Image.open(r'C:\Users\Faizan Butt\.gemini\antigravity\brain\8077e112-a55e-41c8-9031-f76b78ccb3de\.user_uploaded\media_1793098847830.png'); print(img.size)"`
-Ran command: `powershell -Command "Add-Type -AssemblyName System.Drawing; $img = [System.Drawing.Image]::FromFile('C:\Users\Faizan Butt\.gemini\antigravity\brain\8077e112-a55e-41c8-9031-f76b78ccb3de\.user_uploaded\media_1793098847830.png'); Write-Output ('Width: ' + $img.Width + ' Height: ' + $img.Height)"`
-Ran command: `Add-Type -AssemblyName System.Drawing
-$img = [System.Drawing.Image]::FromFile('C:\Users\Faizan Butt\.gemini\antigravity\brain\8077e112-a55e-41c8-9031-f76b78ccb3de\.user_uploaded\media_1793098847830.png')
-Write-Host "Width: $($img.Width) Height: $($img.Height)"
-$img.Dispose()
-`
-Listed directory FP
-Viewed README.md:1-173
-Ran command: `curl -s https://api.github.com/users/Faizan-Fr-Dev/repos`
-
-Here is your complete, ready-to-use **GitHub `README.md`** formatted to match the exact design, dark-mode aesthetic, card layouts, and visual hierarchy from your photo—using **only** your provided content without altering or removing anything.
-
-You can copy the entire block below and paste it directly into your GitHub repository or profile `README.md`:
-
-```markdown
 <div align="left">
   <h1>Muhammad Faizan</h1>
   <p><b>Aspiring Manual QA Engineer | Final-Year Computer Science Student</b></p>
@@ -181,23 +164,3 @@ You can copy the entire block below and paste it directly into your GitHub repos
   "github": "https://github.com/Faizan-Fr-Dev",
   "linkedin": "https://www.linkedin.com/in/muhammad-faizan-a45b6b3a1/"
 }
-```
-
-<p align="center">
-  <a href="https://github.com/Faizan-Fr-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Faizan--Fr--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-faizan-a45b6b3a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faizan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Thank you for visiting my QA portfolio!</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052cc,100:2684ff&height=80&section=footer" width="100%" alt="Footer Wave" />
-</p>
-```
