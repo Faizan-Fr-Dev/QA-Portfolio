@@ -76,7 +76,7 @@
       <p><b>Project Type:</b> Manual API Testing using Postman</p>
       <p>Tested REST API endpoints for a food delivery application, covering customer-facing functionality and administrative operations.</p>
       <p>
-        <b>Testing Focus:</b> Postman &bull; REST&nbsp;APIs &bull; Positive&nbsp;Testing &bull; Negative&nbsp;Testing &bull; Authentication&nbsp;Testing &bull; JSON
+        <b>Testing Focus:</b> Postman &bull; REST&nbsp;APIs &bull; Positive&nbsp;Testing &bull; Negative&nbsp;Testing <br> &bull; Authentication&nbsp;Testing &bull; JSON
       </p>
       <p>
         <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
