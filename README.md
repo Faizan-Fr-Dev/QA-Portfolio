@@ -97,7 +97,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
 
 
 ### 🌐 Connect with Me
-
+```JSON
 {
   "name": "Muhammad Faizan",
   "role": "Aspiring Manual QA Engineer",
@@ -106,11 +106,13 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
   "github": "https://github.com/Faizan-Fr-Dev",
   "linkedin": "https://www.linkedin.com/in/muhammad-faizan-a45b6b3a1/"
 }
+```
 
 <p align="center">
   <i>Thank you for visiting my QA portfolio!</i>
+  <p> Made with ❤️ By Muhammad Faizan
 </p>
-<p> Made with ❤️ By Muhammad Faizan
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052cc,100:2684ff&height=80&section=footer" width="100%" alt="Footer Wave" />
 </p>
