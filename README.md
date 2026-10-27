@@ -59,12 +59,9 @@
       </p>
       <p>
         <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/-View%20Code-21262d?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+          <img src="https://img.shields.io/badge/-View%20Code-21262d?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
         &nbsp;
-        <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/-Test%20Reports-3b82f6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Test Reports" />
-        </a>
       </p>
     </td>
     <td width="42%" valign="middle" align="center">
@@ -72,10 +69,6 @@
         <img src="https://images.unsplash.com/photo-1556742049-0a67c5574f73?w=600&auto=format&fit=crop&q=80" width="100%" style="border-radius: 8px;" alt="OpenCart Testing Preview" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Executions-491-blue?style=flat-square" alt="Total" />
-      <img src="https://img.shields.io/badge/PASS-466-2ea44f?style=flat-square" alt="Pass" />
-      <img src="https://img.shields.io/badge/FAIL-11-cf222e?style=flat-square" alt="Fail" />
-      <img src="https://img.shields.io/badge/BLOCKED-14-d29922?style=flat-square" alt="Blocked" />
     </td>
   </tr>
 </table>
@@ -108,12 +101,9 @@
         <code>Postman</code> • <code>REST APIs</code> • <code>Positive Testing</code> • <code>Negative Testing</code> • <code>Authentication Testing</code> • <code>JSON</code>
       </p>
       <p>
-        <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/-View%20Code-21262d?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-        </a>
         &nbsp;
         <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/-API%20Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Collection" />
+          <img src="https://img.shields.io/badge/-API%20Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="View API Collection" />
         </a>
       </p>
     </td>
