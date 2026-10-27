@@ -1,6 +1,7 @@
 <div align="left">
   <h1>Muhammad Faizan</h1>
-  <p><b>Aspiring Manual QA Engineer | Final-Year Computer Science Student</b></p>
+  <p><b>Aspiring Manual QA Engineer | Final-Year Computer Science Student</b></p><br>
+Aspiring QA Engineer and final-year Computer Science student with hands-on experience in manual web application and REST API testing using Postman. Skilled in test case design, functional testing, positive and negative testing, and defect reporting. Completed projects covering 491 OpenCart test executions and 27 API requests. Bringing additional MERN-stack development experience and a strong focus on software quality.
 </div>
 
 > Welcome to my Quality Assurance (QA) portfolio! This repository showcases my hands-on practice in manual software testing, web application testing, and REST API testing.  
