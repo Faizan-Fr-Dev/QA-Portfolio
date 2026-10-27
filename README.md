@@ -1,6 +1,6 @@
 # Muhammad Faizan
 
-**Aspiring QA Engineer & Manual Tester**
+**Aspiring QA Engineer & Manual Tester** <br>
 *Ensuring software quality through systematic testing, detailed defect reporting, and reliable API validation.*
 
 ---
