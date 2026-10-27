@@ -32,6 +32,15 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
 
 ---
 
+### 🔍 My QA Approach
+
+- **Understand Requirements:** Identify expected application behavior and key user workflows.
+- **Design Test Scenarios:** Prepare positive, negative, and boundary-value test scenarios.
+- **Execute Tests:** Validate application functionality and API responses against expected results.
+- **Report Defects:** Document reproduction steps, expected results, actual results, and supporting evidence.
+- **Verify Fixes:** Perform retesting and regression testing where applicable.
+
+
 ### 🚀 Featured Projects
 
 <!-- Project 1: OpenCart Manual Testing -->
