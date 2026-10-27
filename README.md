@@ -87,49 +87,6 @@
   </tr>
 </table>
 
----
-
-### 💼 Professional Experience
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏢 Full Stack Developer Intern — GenIteams</h4>
-      <p>📅 <i>July 2026 – August 2026</i></p>
-      <ul>
-        <li>Developed features for a full-stack food delivery application using the MERN stack.</li>
-        <li>Worked on customer-facing storefront and admin dashboard functionality.</li>
-        <li>Developed REST APIs using Node.js and Express.js with MongoDB.</li>
-        <li>Implemented JWT authentication and bcrypt password hashing.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏢 Front End Web Developer Intern — DevelopersHub Corporation</h4>
-      <p>📅 <i>December 2025 – February 2026</i></p>
-      <ul>
-        <li>Developed features for a React-based web application.</li>
-        <li>Implemented dashboards, scheduling modules, and reusable UI components.</li>
-        <li>Worked on document management functionality, including file upload and preview.</li>
-        <li>Enhanced role-based interfaces and authentication-related UI functionality.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-Fr-Dev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Faizan's Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-Fr-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Fr-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
