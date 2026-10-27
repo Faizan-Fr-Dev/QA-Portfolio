@@ -109,10 +109,11 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
 ```
 
 <p align="center">
-  <i>Thank you for visiting my QA portfolio!</i> <br>
-   Made with ❤️ By Muhammad Faizan
+  <i>Thank you for visiting my QA portfolio!</i> 
+   
 </p>
 
 <p align="center">
+  Made with ❤️ By Muhammad Faizan
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052cc,100:2684ff&height=80&section=footer" width="100%" alt="Footer Wave" />
 </p>
