@@ -27,7 +27,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
 * **Test Design:** Test Scenarios, Test Cases, Boundary Value Analysis, Equivalence Partitioning
 * **API Testing:** Postman, REST APIs, HTTP Methods, HTTP Status Codes, JSON Payloads, Authentication Testing
 * **QA Documentation:** Test Execution Reports, Bug Reports, Expected vs. Actual Results, Test Closure Reports
-* **Tools:** Postman, Git, GitHub, Chrome DevTools
+* **Tools:** Postman, Git, GitHub, Jira, Zephyr, Chrome DevTools, Agile/Scrum
 * **Additional Technical Knowledge:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB
 
 ---
@@ -38,7 +38,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
 <table>
   <tr>
     <td width="64%" valign="top">
-    <h3><a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/OpenCart%20Manual%20Testing%20Project" target="_blank">🛒 OpenCart — E-commerce Manual Testing</a></h3>
+    <h3><a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/OpenCart%20Manual%20Testing%20Project" target="_blank">OpenCart — E-commerce Manual Testing</a></h3>
       <p><b>Project Type:</b> Web Application Manual Testing</p>
       <p>Performed manual testing of an OpenCart e-commerce application, focusing on key user workflows and documenting test execution results and defects.</p>
       <p>
@@ -67,7 +67,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
       </a>
     </td>
     <td width="64%" valign="top">
-      <h3><a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/Tasty%20Food%20API%20Testing%20Project" target="_blank">🍽️ Tasty Foods — REST API Testing<</a></h3>
+      <h3><a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/Tasty%20Food%20API%20Testing%20Project" target="_blank">Tasty Foods — REST API Testing<</a></h3>
       <p><b>Project Type:</b> Manual API Testing using Postman</p>
       <p>Tested REST API endpoints for a food delivery application, covering customer-facing functionality and administrative operations.</p>
       <p>
