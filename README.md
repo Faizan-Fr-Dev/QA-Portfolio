@@ -39,51 +39,36 @@
 
 ### 🚀 Featured Projects
 
-<!-- Project 1: OpenCart Manual Testing (Text Left, Image & Metrics Right) -->
+<!-- Project 1: OpenCart Manual Testing -->
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="64%" valign="top">
       <h3>🛒 OpenCart — E-commerce Manual Testing</h3>
       <p><b>Project Type:</b> Web Application Manual Testing</p>
       <p>Performed manual testing of an OpenCart e-commerce application, focusing on key user workflows and documenting test execution results and defects.</p>
       <p>
-        <b>Testing Focus:</b><br/>
-        <code>Functional Testing</code> • <code>Negative Testing</code> • <code>Regression Testing</code> • <code>Defect Reporting</code> • <code>Test Documentation</code>
+        <b>Testing Focus:</b> Functional&nbsp;Testing &bull; Negative&nbsp;Testing &bull; Regression&nbsp;Testing &bull; Defect&nbsp;Reporting &bull; Test&nbsp;Documentation
       </p>
       <p>
         <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
           <img src="https://img.shields.io/badge/-View%20Repository-21262d?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
-        &nbsp;
-        <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/-Test%20Reports-2563eb?style=for-the-badge&logo=googledocs&logoColor=white" alt="Test Reports" />
-        </a>
       </p>
     </td>
-    <td width="42%" valign="middle" align="center">
+    <td width="36%" valign="middle" align="center">
       <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
-        <img src="https://images.unsplash.com/photo-1556742049-0a67c5574f73?w=600&auto=format&fit=crop&q=80" width="100%" style="border-radius: 8px;" alt="OpenCart Testing Preview" />
+        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&auto=format&fit=crop&q=80" width="100%" alt="OpenCart Testing Preview" />
       </a>
-      <br/><br/>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Total%20Executions-491-0969da?style=for-the-badge" alt="491 Executions" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/PASS-466-238636?style=flat-square&logo=checkmarx&logoColor=white" alt="Pass" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/FAIL-11-da3633?style=flat-square" alt="Fail" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/BLOCKED-14-9e6a03?style=flat-square" alt="Blocked" />
-      </div>
     </td>
   </tr>
 </table>
 
-<!-- Project 2: Tasty Foods REST API Testing (Image & Metrics Left, Text Right) -->
+<!-- Project 2: Tasty Foods REST API Testing -->
 <table>
   <tr>
-    <td width="42%" valign="middle" align="center">
+    <td width="38%" valign="middle" align="center">
       <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
-        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80" width="100%" style="border-radius: 8px;" alt="Tasty Foods API Testing Preview" />
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80" width="100%" alt="Tasty Foods API Testing Preview" />
       </a>
       <br/><br/>
       <div align="center">
@@ -96,7 +81,7 @@
         <img src="https://img.shields.io/badge/Auth-JWT-238636?style=flat-square" alt="JWT" />
       </div>
     </td>
-    <td width="58%" valign="top">
+    <td width="62%" valign="top">
       <h3>🍽️ Tasty Foods — REST API Testing</h3>
       <p><b>Project Type:</b> Manual API Testing using Postman</p>
       <p>Tested REST API endpoints for a food delivery application, covering customer-facing functionality and administrative operations.</p>
@@ -109,8 +94,7 @@
         <li>Compared actual responses against expected behavior and investigated unexpected results.</li>
       </ul>
       <p>
-        <b>Testing Focus:</b><br/>
-        <code>Postman</code> • <code>REST APIs</code> • <code>Positive Testing</code> • <code>Negative Testing</code> • <code>Authentication Testing</code> • <code>JSON</code>
+        <b>Testing Focus:</b> Postman &bull; REST&nbsp;APIs &bull; Positive&nbsp;Testing &bull; Negative&nbsp;Testing &bull; Authentication&nbsp;Testing &bull; JSON
       </p>
       <p>
         <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio" target="_blank">
