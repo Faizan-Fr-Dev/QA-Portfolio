@@ -38,7 +38,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
 <table>
   <tr>
     <td width="64%" valign="top">
-      <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/OpenCart%20Manual%20Testing%20Project" target="_blank"> <h3>🛒 OpenCart — E-commerce Manual Testing</h3</a>
+    <h3><a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/OpenCart%20Manual%20Testing%20Project" target="_blank">🛒 OpenCart — E-commerce Manual Testing</a></h3>
       <p><b>Project Type:</b> Web Application Manual Testing</p>
       <p>Performed manual testing of an OpenCart e-commerce application, focusing on key user workflows and documenting test execution results and defects.</p>
       <p>
