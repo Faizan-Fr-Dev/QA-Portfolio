@@ -34,11 +34,14 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
 
 ### 🔍 My QA Approach
 
-- **Understand Requirements:** Identify expected application behavior and key user workflows.
-- **Design Test Scenarios:** Prepare positive, negative, and boundary-value test scenarios.
-- **Execute Tests:** Validate application functionality and API responses against expected results.
-- **Report Defects:** Document reproduction steps, expected results, actual results, and supporting evidence.
-- **Verify Fixes:** Perform retesting and regression testing where applicable.
+- **Requirements Analysis:** Understand application requirements, expected behavior, and key user workflows.
+- **Test Scenario & Test Case Design:** Create clear test scenarios and detailed test cases with preconditions, test steps, test data, and expected results.
+- **Test Design Techniques:** Apply positive and negative testing, Boundary Value Analysis, and Equivalence Partitioning where appropriate.
+- **Test Execution:** Execute test cases, compare actual results against expected results, and record PASS, FAIL, or BLOCKED status.
+- **API Testing:** Validate REST API endpoints using Postman, inspect HTTP status codes and JSON responses, and test valid and invalid inputs.
+- **Defect Reporting:** Document defects with clear reproduction steps, expected versus actual results, and supporting evidence.
+- **Retesting & Regression Testing:** Verify reported defects after fixes and check that existing functionality continues to work as expected.
+- **Test Documentation:** Maintain organized test cases, execution reports, bug reports, and test closure documentation.
 
 ---
 
