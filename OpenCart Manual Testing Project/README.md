@@ -1,10 +1,10 @@
 # 🛒 OpenCart Manual Testing Project
 
-<p align="center">
+<p align="left">
   <strong>Manual QA Portfolio | Functional Testing | Defect Reporting</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Testing-Manual%20QA-blue?style=for-the-badge" alt="Manual QA" />
   <img src="https://img.shields.io/badge/Application-OpenCart-orange?style=for-the-badge" alt="OpenCart" />
   <img src="https://img.shields.io/badge/Focus-Functional%20Testing-green?style=for-the-badge" alt="Functional Testing" />
