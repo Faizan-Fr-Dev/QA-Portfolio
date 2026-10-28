@@ -65,7 +65,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
     </td>
     <td width="36%" valign="middle" align="center">
        <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/OpenCart%20Manual%20Testing%20Project" target="_blank">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/OpenCart_Screenshot_24.4.2015.png" width="100%" alt="OpenCart Testing Preview" />
+      <img width="1580" height="970" alt="oc" src="https://github.com/user-attachments/assets/10638717-5440-4a71-ad80-bf1e02d92830" />
       </a>
     </td>
   </tr>
@@ -117,3 +117,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
   Made with ❤️ By Muhammad Faizan
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052cc,100:2684ff&height=80&section=footer" width="100%" alt="Footer Wave" />
 </p>
+
+
+
+
