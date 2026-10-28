@@ -76,7 +76,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
   <tr>
     <td width="36%" valign="middle" align="center">
       <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/Tasty%20Food%20API%20Testing%20Project" target="_blank">
-        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80" width="100%" alt="Tasty Foods API Testing Preview" />
+       <img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/3d3316ec-3cbc-419b-81b1-100274b0b474" />
       </a>
     </td>
     <td width="64%" valign="top">
@@ -117,6 +117,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
   Made with ❤️ By Muhammad Faizan
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052cc,100:2684ff&height=80&section=footer" width="100%" alt="Footer Wave" />
 </p>
+
 
 
 
