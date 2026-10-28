@@ -65,7 +65,7 @@ I am an **Aspiring QA Engineer** and final-year Computer Science student based i
     </td>
     <td width="36%" valign="middle" align="center">
        <a href="https://github.com/Faizan-Fr-Dev/QA-Portfolio/tree/main/OpenCart%20Manual%20Testing%20Project" target="_blank">
-        <img src="C:\Users\Faizan Butt\Pictures\Screenshots\Screenshot 2026-10-28 133236.pngw=600&auto=format&fit=crop&q=80" width="100%" alt="OpenCart Testing Preview" />
+       <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/OpenCart_Screenshot_24.4.2015.png" width="100%" alt="OpenCart Testing Preview" />
       </a>
     </td>
   </tr>
